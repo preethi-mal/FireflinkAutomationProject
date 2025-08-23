@@ -15,6 +15,8 @@ public class ReadDataFromCmdLineTest
 		
 		String PWD = System.getProperty("password");
 		System.out.println(PWD);
+		
+		System.out.println("=======");
 	}
 
 }
